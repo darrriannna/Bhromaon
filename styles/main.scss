@@ -1,0 +1,28 @@
+$black: #111111;
+$purple: #496BFE;
+$white: #FFFFFF;
+$font-main: 'Josefin Sans';
+$font: 'Aleo';
+
+  nav, footer, header, main {
+    display: block;
+  }
+
+  
+  .wrapper {
+    width: 100%;
+    max-width: 1300px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+    flex: 1 1 auto;
+    width: 100%;
+    margin: 0 auto;
+    padding: 5px;
+   }
+
+
+
+
